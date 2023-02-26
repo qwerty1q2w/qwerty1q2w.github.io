@@ -1,11 +1,6 @@
 ---
 layout: default
 ---
-
----
-title: "Blog"
----
-
 Mostly posts about offensive website security
 
 ### Categories
